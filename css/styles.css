@@ -1,18 +1,25 @@
 .sidebar{
   float: right;
-  width: 35%;
-  font-size: 1.9em;
-  background-color: #ABC4F9  ;
+  width: 25%;
+  font-size: 1.3em;
+  background-color: #ABC4F9;
+  border: 3px solid blue;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px 50px;
+
 
 }
  .main{
-   width: 60%;
+  width: 70%;
    float: left;
   font-size: 1.3em;
 
  }
 
 .main img{
-  width: 40%;
+  width: 50%;
   float: left;
+  padding: 15px;
+  border-radius: 50px;
 }
