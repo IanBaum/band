@@ -1,0 +1,18 @@
+.sidebar{
+  float: right;
+  width: 35%;
+  font-size: 1.9em;
+  background-color: #ABC4F9  ;
+
+}
+ .main{
+   width: 60%;
+   float: left;
+  font-size: 1.3em;
+
+ }
+
+.main img{
+  width: 40%;
+  float: left;
+}
